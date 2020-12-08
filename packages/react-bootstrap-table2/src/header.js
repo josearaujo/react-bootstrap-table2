@@ -80,6 +80,8 @@ const Header = (props) => {
     }
   }
 
+  console.log("JOSE DEBUG")
+
   return (
     <thead className={ wrapperClasses }>
       <tr className={ className }>
